@@ -12,9 +12,19 @@ UI-UX Designer Test Skill from BRIK
    - Produk yang dijual tidak ditampilkan seluruhnya dan tidak ada gambar yang mendeskripsikan produk yang dijual.
 
 2. Design a new concept
-   - membuat design yang responsive baik pada layar desktop maupun handphone
-   - membuat design yang simpel namun tetap memperlihatkan tujuan dari perusahaan serta adanya website
+   - Membuat design yang responsive baik pada layar desktop maupun handphone
+   - Membuat design yang simpel namun tetap memperlihatkan tujuan dari perusahaan serta adanya website
 
 3. Focus on user experience
-   
+   User experience yang simpel dan mudah digunakan untuk berbagai kalangan.
+
+4. Propose new fiture
+   - Menambahkan fitur "tentang kami"
+   - Menambahkan fitur "produk"
+     
 5. Present the design
+   https://www.figma.com/design/ZS3kQOIiCMGLCkhtNZpEm4/UI-UX-Designer-Test-Skill_Reyna-Nur-R?node-id=79-1039&t=jayLAA1oHZPxk0bG-1
+
+   - Merubah beberapa background agar tampilan lebih nyaman untuk dilihat.
+   - Merubah beberapa komponen agar dapat terlihat lebih rapih dan dapat digunakan dengan baik.
+   - Menambahkan fitur baru yaitu "Tentang Kami" dan "Produk". Fitur "Tentang Kami" dibuat agar user dapat mengetahui secara naratif apa itu PT Bangun Rancang Indonesia Kita (BRIK) sehingga user memliki tingkat kepercayaan yang tinggi terhadap BRIK. Sedangkan fitur "Produk" dibuat agar user dapat melihat apa saja yang disediakan oleh BRIK untuk diperjual belikan, sehingga apabila terdapat user yang ingin membeli dari BRIK akan mengetahui detail dari setiap produknya, baik dari bentuk, warna, maupun detail lainnya agar lebih yakin karena terdapat gambar serta detail dari produk.
